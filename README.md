@@ -3,7 +3,7 @@
 Full Stack Java Development with Spring Boot & VueJS
 
 # Java Tool Chain
-- Inteliji
+- IntelliJ IDEA (2022.1.3)
 - Apache Maven
 - Spring Tools 4
 - JDK 17
