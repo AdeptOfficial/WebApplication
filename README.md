@@ -1,14 +1,14 @@
 # WebApplication
 
-Testing a Full Stack Java Development with Spring Boot & VueJS
+Full Stack Java Development with Spring Boot & VueJS Test Web Application
 
-# Java Tool Chain
+# Backend Java Tool Chain
 - IntelliJ IDEA (2022.1.3)
 - Apache Maven
 - Spring Tools 4
 - JDK 17
 
-# VueJs Tool Chain
+# Frontend VueJs Tool Chain
 - nodejs (v16.16.0)
 - npm (v8.14.0)
 - @vue/cli (v5.0.8)
