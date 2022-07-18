@@ -1,6 +1,6 @@
 # WebApplication
 
-Full Stack Java Development with Spring Boot & VueJS
+Testing a Full Stack Java Development with Spring Boot & VueJS
 
 # Java Tool Chain
 - IntelliJ IDEA (2022.1.3)
